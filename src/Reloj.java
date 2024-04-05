@@ -19,7 +19,11 @@ public class Reloj {
         return segFalso;
     }
     public void setSegFalso(String segFalso) {
+<<<<<<< HEAD
         // Esta es el comentario para modificar la rama
+=======
+        //ksdkdjbgjkhsrebf
+>>>>>>> Fix_Jose
         this.segFalso = segFalso;
     }
 }
