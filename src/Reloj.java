@@ -19,6 +19,7 @@ public class Reloj {
         return segFalso;
     }
     public void setSegFalso(String segFalso) {
+        //ksdkdjbgjkhsrebf
         this.segFalso = segFalso;
     }
 }
