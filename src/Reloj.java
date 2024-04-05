@@ -19,6 +19,7 @@ public class Reloj {
         return segFalso;
     }
     public void setSegFalso(String segFalso) {
+        // Esta es el comentario para modificar la rama
         this.segFalso = segFalso;
     }
 }
