@@ -34,6 +34,7 @@ public class Reloj {
     }
 
     public void setSegundo(int segundo) {
+        //Este es el comentario para crear conflicto rama
         this.segundo = segundo;
     }
 }
