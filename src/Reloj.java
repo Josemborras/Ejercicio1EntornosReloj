@@ -25,7 +25,9 @@ public class Reloj {
     }
 
     public void setTarde(boolean tarde) {
-        //Este método devuelve un boolean
+
+        // estamos probando los cambios en las ramas de los demas Jose Borras
+
         this.tarde = tarde;
     }
 }
