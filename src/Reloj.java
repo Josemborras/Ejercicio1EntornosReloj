@@ -20,6 +20,7 @@ public class Reloj {
         return tarde;
     }
     public void setTarde(boolean tarde) {
+        // estamos probando los cambios en las ramas de los demas Jose Borras
         this.tarde = tarde;
     }
 }
